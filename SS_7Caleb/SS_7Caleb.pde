@@ -1,4 +1,4 @@
-// Even Robots can catch covid!, By Caleb Dee-Rakower, the virus follows the mouse, whenever you get close to the robot's "Mouth" a mask appears on its face. 
+// Even Robots can catch covid!, By Caleb Dee-Rakower, the virus follows your potentiometer input, whenever you get close to the robot's "Mouth" a mask appears on its face. 
 //(P.S. flashing lights warning, the robots eyes rapidly change color)
 float r = random(255);
 float g = random(255);
